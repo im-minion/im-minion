@@ -18,4 +18,6 @@
             width="40" height="40"/> </a>
 </p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-minion&" alt="im-minion"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-minion&" alt="im-minion"/></p> -->
+
+Talk is cheap, show me the code!
