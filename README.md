@@ -20,4 +20,4 @@
 -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-minion&" alt="im-minion"/></p> -->
 
-Talk is cheap, show me the code!
+Talk is cheap, I believe in code 👩‍💻!
